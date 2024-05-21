@@ -1,5 +1,8 @@
 ﻿namespace RecipeBook.Models;
 
+/// <summary>
+/// Enum representing food categories.
+/// </summary>
 public enum FoodCategory
 {
     Meats,
