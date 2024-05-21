@@ -45,7 +45,7 @@ This Recipe Book application is a Windows Forms desktop application designed to 
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/your-username/RecipeBook.git
+   git clone https://github.com/Umid0vic/RecipeBook.git
    ```
 
 2. **Open the solution in Visual Studio**:
