@@ -33,7 +33,7 @@ This Recipe Book application is a Windows Forms desktop application designed to 
 
 #### IngredientsForm.cs
 - **IngredientsForm**: The form for adding and managing ingredients.
-- 
+  
 #### Models
 - **Recipe.cs**: Represents a recipe.
 
